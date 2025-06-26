@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Attendance Management System
 
 A Java desktop application for managing student attendance with Excel import functionality.
@@ -131,3 +132,6 @@ StudentAttendanceApp/
 **Created by:** Student Attendance App Development Team  
 **Version:** 1.0.0  
 **Last Updated:** June 2025
+=======
+# attendance-management-system
+>>>>>>> cd6e4c329df416013f77c111410bf2b2e429e959
